@@ -1,6 +1,6 @@
 {
-  "name": "Salyangoz New Tab: View what's new on Salyangoz",
-  "short_name": "Salyangoz New Tab",
+  "name": "Salyangoz Tab: View what's new on Salyangoz",
+  "short_name": "Salyangoz Tab",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "View what's new on Salyangoz",
